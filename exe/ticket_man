@@ -1,0 +1,5 @@
+#!/usr/bin/ruby
+
+require 'ticket_man'
+
+TicketMan::CLI.start
